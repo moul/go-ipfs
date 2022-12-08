@@ -13,7 +13,7 @@ require (
 	github.com/ipfs/go-ipfs-blockstore v1.2.0
 	github.com/ipfs/go-ipfs-exchange-offline v0.2.0
 	github.com/ipfs/go-log v1.0.5
-	github.com/ipfs/go-merkledag v0.6.0
+	github.com/ipfs/go-merkledag v0.8.1
 	github.com/ipfs/go-unixfs v0.3.1
 	github.com/ipfs/hang-fds v0.1.0
 	github.com/ipfs/iptb v1.4.0
@@ -24,7 +24,7 @@ require (
 	github.com/libp2p/go-libp2p v0.19.0
 	github.com/libp2p/go-libp2p-core v0.15.1
 	github.com/multiformats/go-multiaddr v0.5.0
-	github.com/multiformats/go-multihash v0.1.0
+	github.com/multiformats/go-multihash v0.2.1
 	gotest.tools/gotestsum v0.4.2
 )
 
@@ -197,7 +197,6 @@ require (
 	github.com/miekg/dns v1.1.48 // indirect
 	github.com/mikioh/tcpinfo v0.0.0-20190314235526-30a79bb1804b // indirect
 	github.com/mikioh/tcpopt v0.0.0-20190314235656-172688c1accc // indirect
-	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
@@ -277,7 +276,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
+	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
