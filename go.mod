@@ -61,8 +61,8 @@ require (
 	github.com/ipfs/interface-go-ipfs-core v0.11.0
 	github.com/ipld/go-car v0.5.0
 	github.com/ipld/go-car/v2 v2.5.1
-	github.com/ipld/go-codec-dagpb v1.5.0
-	github.com/ipld/go-ipld-prime v0.19.0
+	github.com/ipld/go-codec-dagpb v1.6.0
+	github.com/ipld/go-ipld-prime v0.20.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
 	github.com/jbenet/go-temp-err-catcher v0.1.0
 	github.com/jbenet/goprocess v0.1.4
@@ -82,7 +82,7 @@ require (
 	github.com/multiformats/go-multiaddr v0.8.0
 	github.com/multiformats/go-multiaddr-dns v0.3.1
 	github.com/multiformats/go-multibase v0.1.1
-	github.com/multiformats/go-multicodec v0.7.0
+	github.com/multiformats/go-multicodec v0.8.0
 	github.com/multiformats/go-multihash v0.2.1
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
