@@ -60,7 +60,7 @@ require (
 	github.com/ipfs/go-verifcid v0.0.2
 	github.com/ipfs/interface-go-ipfs-core v0.11.0
 	github.com/ipld/go-car v0.5.0
-	github.com/ipld/go-car/v2 v2.5.1
+	github.com/ipld/go-car/v2 v2.7.0
 	github.com/ipld/go-codec-dagpb v1.5.0
 	github.com/ipld/go-ipld-prime v0.19.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
@@ -94,14 +94,14 @@ require (
 	github.com/whyrusleeping/multiaddr-filter v0.0.0-20160516205228-e903e4adabd7
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.32.0
-	go.opentelemetry.io/otel v1.7.0
+	go.opentelemetry.io/otel v1.12.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.7.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.7.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.7.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.7.0
 	go.opentelemetry.io/otel/exporters/zipkin v1.7.0
 	go.opentelemetry.io/otel/sdk v1.7.0
-	go.opentelemetry.io/otel/trace v1.7.0
+	go.opentelemetry.io/otel/trace v1.12.0
 	go.uber.org/dig v1.15.0
 	go.uber.org/fx v1.18.2
 	go.uber.org/zap v1.24.0
